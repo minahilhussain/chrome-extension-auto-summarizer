@@ -1,0 +1,19 @@
+# Node modules in backend
+/backend/node_modules/
+
+# Environment variables
+/backend/.env
+
+# Logs
+/backend/*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: Chrome extension build artifacts
+*.crx
+*.zip
+
+# VS Code settings (if using VS Code)
+.vscode/
